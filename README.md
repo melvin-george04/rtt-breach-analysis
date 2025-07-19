@@ -16,7 +16,7 @@ Using the **April 2023** and **March 2024** datasets, this analysis explores:
 - Identify specialties with consistently high delays
 - Visualise trends and performance deterioration
 
-## 🗃 Data Source
+##  Data Source
 Data was sourced directly from **NHS England**:  
 📎 [RTT Waiting Times – NHS England](https://www.england.nhs.uk/statistics/statistical-work-areas/rtt-waiting-times/)
 
@@ -36,12 +36,12 @@ Files used:
 
 ##  Visualisations
 
-### 🔹 1. Top 10 RTT Breach Rates (March 2024)
+###  1. Top 10 RTT Breach Rates (March 2024)
 ![Top 10 RTT Breach Rates – March 2024](outputs/top10_breach_march2024.png)
 
 > ENT, Oral Surgery, and Plastic Surgery had the highest proportion of long-wait patients.
 
-### 🔹 2. Breach Rate Change: April 2023 → March 2024
+###  2. Breach Rate Change: April 2023 → March 2024
 ![Breach Rate Change – April to March](outputs/rtt_breach_rate_change_top10.png)
 
 > These specialties saw the **largest increases** in breach rates over the year.
@@ -64,6 +64,6 @@ Files used:
 
 ##  Author
 **Melvin George**  
-📍 Norwich, UK  
-📧 melvingeorge099@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/melvin-george2000)
+ Norwich, UK  
+ melvingeorge099@gmail.com  
+ [LinkedIn](https://www.linkedin.com/in/melvin-george2000)
