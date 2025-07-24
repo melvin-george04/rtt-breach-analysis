@@ -18,11 +18,11 @@ Using the **April 2023** and **March 2024** datasets, this analysis explores:
 
 ##  Data Source
 Data was sourced directly from **NHS England**:  
-📎 [RTT Waiting Times – NHS England](https://www.england.nhs.uk/statistics/statistical-work-areas/rtt-waiting-times/)
+ [RTT Waiting Times – NHS England](https://www.england.nhs.uk/statistics/statistical-work-areas/rtt-waiting-times/)
 
 Files used:
-- `Incomplete Commissioner Apr23.xlsx`
-- `Incomplete Commissioner Mar24.xlsx`
+- Incomplete Commissioner Apr23.xlsx
+- Incomplete Commissioner Mar24.xlsx
 
 ##  Tools Used
 - **Python** (pandas, matplotlib)
@@ -32,7 +32,7 @@ Files used:
 ##  Key Metrics Calculated
 - **Total Waiting**: Number of patients on RTT pathway
 - **Over 18 Weeks**: Number of patients breaching target
-- **Breach Rate (%)** = `(Over 18 Weeks / Total Waiting) × 100`
+- **Breach Rate (%)** = (Over 18 Weeks / Total Waiting) × 100
 
 ##  Visualisations
 
@@ -46,16 +46,16 @@ Files used:
 
 > These specialties saw the **largest increases** in breach rates over the year.
 
-## 📄 Files Included
+##  Files Included
 
 | File                               | Description                                  |
 |------------------------------------|----------------------------------------------|
-| `rtt_april_2023.csv`               | Cleaned April 2023 RTT summary               |
-| `rtt_march_2024.csv`               | Cleaned March 2024 RTT summary               |
-| `rtt_combined_apr_mar.csv`         | Merged dataset with breach rates             |
-| `top10_breach_march2024.png`       | Top 10 breach chart                          |
-| `rtt_breach_rate_change_top10.png` | Breach rate change bar chart                 |
-| `README.md`                        | This project description                     |
+| rtt_april_2023.csv               | Cleaned April 2023 RTT summary               |
+| rtt_march_2024.csv               | Cleaned March 2024 RTT summary               |
+| rtt_combined_apr_mar.csv         | Merged dataset with breach rates             |
+| top10_breach_march2024.png       | Top 10 breach chart                          |
+| rtt_breach_rate_change_top10.png | Breach rate change bar chart                 |
+| README.md                        | This project description                     |
 
 ##  Future Work
 - Extend the dataset to cover **all months** from April 2023 to March 2024
