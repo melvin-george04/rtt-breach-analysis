@@ -52,7 +52,7 @@ This chart shows which specialties saw the **biggest increase in breach rate** o
 
 ### 3. Change in Breach Rate by Specialty (Dumbbell Plot)
 
-![Dumbbell Plot – Breach Change](rtt_dumbbell_breach_change.png)
+![Dumbbell Plot – Breach Change](outputs/dumbbell_plot.png)
 
 This plot compares breach rates side-by-side for each specialty in April 2023 vs March 2024. Longer lines indicate bigger changes, whether positive or negative.
 
